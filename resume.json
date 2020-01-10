@@ -1,94 +1,208 @@
 {
-  "meta": { "theme": "elegant" },
-  "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
-    }]
+  "meta": {
+    "theme": "elegant"
   },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
+  "basics": {
+    "name": "Nicholas Lazzerini",
+    "label": "Web Frontend Developer | Fullstack Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/9289704?s=460&v=4",
+    "email": "info@nicholaslazzerini.com",
+    "phone": "(39) 3331879000",
+    "website": "http://nicholaslazzerini.com",
+    "summary": "Hi, I'm Nicholas (aka Nick). I am a tech enthusiast who loves to develop and create interesting and fun stuff (mainly just to \"try something out\"). When I'm not coding I spend my time out in nature taking photos. I am a volunteer firefighter as well as a registered blood and organ donor.",
+    "location": {
+      "postalCode": "40026",
+      "city": "Imola",
+      "countryCode": "IT",
+      "region": "Bologna"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "nickimola",
+        "url": "https://github.com/nickimola"
+      },
+      {
+        "network": "Linkedin",
+        "username": "nicholaslazzerini",
+        "url": "https://www.linkedin.com/in/nicholaslazzerini/"
+      },
+      {
+        "network": "Twitter",
+        "username": "nick_imola",
+        "url": "https://twitter.com/nick_imola"
+      }
     ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
+  },
+  "work": [
+    {
+      "company": "YOOX Net-a-porter Group",
+      "position": "Web Developer",
+      "website": "http://yoox.com",
+      "startDate": "2017-09-04",
+      "summary": "Working for the customers team of yoox.com website. My main role is to add new features and maintain features that are already in place on the site"
+    },
+    {
+      "company": "Conceptualplus",
+      "position": "Co-Founder | CTO",
+      "website": "http://conceptualplus.com",
+      "startDate": "2016-06-15",
+      "endDate": "2018-02-08",
+      "summary": "As a CTO, my role is to speak with customers as well as be sure we provide the best possible result."
+    },
+    {
+      "company": "GeniusHub LTD",
+      "position": "Web Developer | UI/UX Designer | Graphic Designer",
+      "website": "http://geniushub.co.uk",
+      "startDate": "2014-05-01",
+      "endDate": "2019-04-04",
+      "summary": "My job was to develop the app that allows the customers to control their heating systems from their internet-connected devices. I also developed the company websites and some graphical assets"
+    },
+    {
+      "company": "ABizCo",
+      "position": "Web Developer",
+      "startDate": "2013-06-10",
+      "endDate": "2013-09-04",
+      "summary": "I worked on a project which involved the creation of a webpage that needed to be compatibile with all versions of ie6 and above. The page was showing a detailed explanation of a product line with description for each part of it"
+    },
+    {
+      "company": "DMDTEK srl",
+      "position": "Web Developer | Graphic Designer",
+      "startDate": "2012-08-17",
+      "endDate": "2013-07-04",
+      "summary": "My job was to create and maintain the company's website as well as create some graphic assets used in a slot machine game"
+    },
+    {
+      "company": "Lazzerini srl",
+      "position": "Web Developer | Graphic Designer | IT Technician",
+      "website": "https://lazzerinisrl.com",
+      "startDate": "2011-08-02",
+      "endDate": "2012-11-20",
+      "summary": "My Main occupation involved the development of websites, creation of graphic assets and PC built and maintenance"
+    },
+    {
+      "company": "Freelance",
+      "position": "Freelance fullstack developer",
+      "startDate": "2011-08-01",
+      "summary": "I worked on several different projects as a freelancer for different clients around the world."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Accademia Domani",
+      "area": "Web Development",
+      "startDate": "2010-02-02",
+      "endDate": "2010-04-20",
+      "courses": [
+        "Web Development",
+        "Web Design"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Italian Firefighters",
+      "position": "Volunteer",
+      "website": "http://www.vigilfuoco.it/",
+      "startDate": "2018-11-03"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Genius Lite - Chrome Extension",
+      "publisher": "GeniusHub Ltd",
+      "releaseDate": "2018-07-25",
+      "website": "https://chrome.google.com/webstore/detail/genius-hub-lite/gnkejjcimppiomocmahbpfeimnobimfp?authuser=1",
+      "summary": "I created the official Genius Hub chrome extension. This extension let you control your heating system while browsing the web"
+    },
+    {
+      "name": "Genius Hub App",
+      "publisher": "GeniusHub Ltd",
+      "releaseDate": "2016-09-09",
+      "website": "https://www.geniushub.co.uk/app/#/app/myHouse",
+      "summary": "This app allows you to control your heating system over the internet from wherever in the world you are. This is the main part of the Genius product"
+    },
+    {
+      "name": "Dracula Chrome Theme",
+      "publisher": "Dracula Community",
+      "releaseDate": "2016-07-01",
+      "website": "https://chrome.google.com/webstore/detail/dracula-chrome-theme-dark/gfapcejdoghpoidkfodoiiffaaibpaem",
+      "summary": "I created the official Dracula theme for Google Chrome"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Express",
+        "Coffeescript",
+        "PHP",
+        "MySql",
+        "Typescript",
+        "Haml",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "keywords": [
+        "Bootstrap",
+        "AngularJS",
+        "Wordpress",
+        "Cordova",
+        "GIT",
+        "Ionic",
+        "LESS CSS",
+        "SASS CSS",
+        "POST CSS",
+        "jQuery",
+        "Vue.js",
+        "React",
+        "Next.js",
+        "Redux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Very Good"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Photography"
+    },
+    {
+      "name": "Guitar Playing"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Travelling"
+    },
+    {
+      "name": "Videogames"
+    },
+    {
+      "name": "Gym"
+    },
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "Nature"
+    }
+  ]
 }
