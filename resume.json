@@ -1,5 +1,5 @@
 {
-  { "meta": { "theme": "modern" } }
+  "meta": { "theme": "elegant" },
   "basics": {
     "name": "John Doe",
     "label": "Programmer",
