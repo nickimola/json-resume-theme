@@ -1,0 +1,15 @@
+{
+  "name": "jsonresume-theme-nl-flat",
+  "version": "1.0.0",
+  "description": "Resume theme made by nicholas lazzerini",
+  "author": "Nicholas Lazzerini <info@nicholaslazzerini.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickimola/json-resume-theme.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.2",
+    "moment": "^2.24.0"
+  }
+}
